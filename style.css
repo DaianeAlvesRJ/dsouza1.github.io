@@ -1,0 +1,45 @@
+body {
+
+        background-color: #cccccc;
+}
+
+
+h1   {
+        font-family: "Georgia";
+        font-size: 28px;
+        color:#FFFFFF
+}
+
+
+p   {
+        font-family: "Georgia";
+        font-size: 15px;
+}
+
+
+#site{
+     
+       width:1300px;   
+       height:80px;
+       margin-top:0;     
+       margin-right:auto;  
+       margin-bottom:0;   
+       margin-left:auto;   
+       background-color:#000000;
+       text-align: center;
+  }
+
+
+#conteudo-left{
+       width:500px; 
+       height:300px;
+       float:left;  
+       background-color:#000000;
+  }
+
+#conteudo-right{   
+      width:500px; 
+      height:400px;    
+      float:left;  
+      background-color:#F00;
+  }
