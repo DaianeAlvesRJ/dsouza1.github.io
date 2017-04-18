@@ -1,6 +1,10 @@
 body {
 
-        background-color: #cccccc;
+        background-image: url("img/fundo.jpg");
+        background-repeat: no-repeat;
+        background-size: 100%
+        
+
 }
 
 
@@ -14,6 +18,7 @@ h1   {
 p   {
         font-family: "Georgia";
         font-size: 15px;
+        color:#FFFFFF
 }
 
 
@@ -25,7 +30,6 @@ p   {
        margin-right:auto;  
        margin-bottom:0;   
        margin-left:auto;   
-       background-color:#000000;
        text-align: center;
   }
 
